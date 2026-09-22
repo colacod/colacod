@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Daniel Colaço
 
-### Senior Software Engineer | Tech Lead | Java | Spring Boot | AWS
+### Software Development Specialist | Tech Lead
 
 🚀 10+ anos desenvolvendo software  
 ☕ Java & Spring Boot  
@@ -55,12 +55,6 @@ Atualmente trabalho com:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=colacod&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colacod&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=colacod&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=colacod&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
----
-
-## 📫 Contato
-
-💼 LinkedIn: [Daniel Colaço]([SEU_LINKEDIN](https://www.linkedin.com/in/colacod/))
