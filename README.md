@@ -1,11 +1,39 @@
 # Daniel Colaço
 
-**Software Development Specialist · Tech Lead**
+### Software Development Specialist · Tech Lead
 
-Java · Spring Boot · AWS · Microservices · Software Architecture
+Software engineer with 10+ years of experience in software development, specializing in backend systems, distributed architectures and scalable solutions.
 
-10+ years building software, with a focus on backend development, distributed systems and scalable architectures.
+Currently focused on software architecture, technical leadership and the development of high-performance systems.
 
-### Stack
+---
 
-`Java` `Spring Boot` `AWS` `MongoDB` `PostgreSQL` `Docker` `React` `TypeScript`
+## Technical Expertise
+
+* **Backend Development:** Java, Spring Boot, Spring Framework
+* **Architecture:** Microservices, Distributed Systems, Design Patterns, REST APIs
+* **Cloud:** AWS
+* **Databases:** MongoDB, PostgreSQL, SQL
+* **Testing:** JUnit
+* **Frontend:** React, Angular, TypeScript, JavaScript
+* **DevOps & Tools:** Docker, Git
+
+---
+
+## Core Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,mongodb,postgres,docker,git,react,angular,typescript" />
+</p>
+
+---
+
+## Professional Focus
+
+* Software Architecture
+* Technical Leadership
+* Distributed Systems
+* Microservices
+* Backend Engineering
+* Cloud Solutions
+* Scalable and Reliable Systems
